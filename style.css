@@ -1,0 +1,28 @@
+body{
+background-color: #e2b2aa;
+font-family: 'Lobster', cursive;
+/* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+text-align: center;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 90px;
+    font-size: 3rem;
+
+}
+.player1{
+    margin-top: 90px;
+    display: inline;
+}
+.player2{
+    display: inline;
+}
+h2{
+    display: inline;
+    margin: 25px;
+}
